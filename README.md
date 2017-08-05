@@ -2,12 +2,9 @@
 
 Searches Github.com user profiles and displays profile info and the latest repositories
 
-### Version
-1.0.0
-
 ## Usage
 
-Open index.html
+Run `ng build`. The index.html can be found in `/dist`. Open index.html.
 
 ## Development server
 
